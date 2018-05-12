@@ -1,0 +1,27 @@
+_repo: Ti-Ti-PuA-Boy-of-Red-River_33740
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33740-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Oxley, J. Macdonald (James Macdonald)
+    alias: Oxley, James M. (James Macdonald)
+    birthdate: 1855
+    deathdate: 1907
+    gutenberg_agent_id: '3223'
+    url: http://www.gutenberg.org/2009/agents/3223
+description: ''
+gutenberg_issued: '2010-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Ti-Ti-Pu: A Boy of Red River'
+url: http://www.gutenberg.org/ebooks/33740
