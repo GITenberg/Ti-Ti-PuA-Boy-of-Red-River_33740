@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '3223'
     url: http://www.gutenberg.org/2009/agents/3223
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33740#Ti-Ti-PuA-Boy-of-Red-River
 gutenberg_issued: '2010-09-16'
 gutenberg_type: Text
 identifiers:
